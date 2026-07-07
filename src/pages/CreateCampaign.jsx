@@ -1,6 +1,6 @@
 import { useState } from "react";
 import API from "../services/api";
-import DashboardLayout from "../components/DashboardLayout";
+import DashboardLayout from "../Components/DashboardLayout";
 
 function CreateCampaign() {
 
